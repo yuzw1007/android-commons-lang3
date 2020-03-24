@@ -1,0 +1,3 @@
+rootProject.name='android-commons-lang3'
+include ':app'
+include ':commons-lang3'
